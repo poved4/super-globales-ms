@@ -14,7 +14,7 @@
 
 	<groupId>com.ucentral</groupId>
 	<artifactId>ms</artifactId>
-	<version>0.0.4</version>
+	<version>0.0.5</version>
 	<name>ms</name>
 	<description>Demo project for Spring Boot</description>
 
